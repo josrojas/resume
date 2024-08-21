@@ -3,4 +3,5 @@ My resume
 
 https://josrojas.github.io/resume/
 
-![image](https://github.com/josrojas/resume/assets/73319827/a7beba7d-0be6-4afc-b50e-fa01d9c2296a)
+![image](https://github.com/user-attachments/assets/baa92da1-2e8e-4847-ba3c-75e53be9769f)
+
